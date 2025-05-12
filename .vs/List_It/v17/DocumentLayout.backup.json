@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\List_It\\List_It\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|c:\\projects\\list_it\\list_it\\api\\controllers\\listcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|solutionrelative:api\\controllers\\listcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|c:\\projects\\list_it\\list_it\\api\\data\\dto\\listdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|solutionrelative:api\\data\\dto\\listdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|c:\\projects\\list_it\\list_it\\api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|solutionrelative:api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\List_It\\List_It\\Api\\Migrations\\20250506190037_ConfigureCascadeAndRestrictDeletes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Api\\Migrations\\20250506190037_ConfigureCascadeAndRestrictDeletes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|c:\\projects\\list_it\\list_it\\api\\data\\dto\\updatelistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|solutionrelative:api\\data\\dto\\updatelistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|c:\\projects\\list_it\\list_it\\api\\models\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|solutionrelative:api\\models\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|c:\\projects\\list_it\\list_it\\api\\models\\listitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|Api\\Api.csproj|solutionrelative:api\\models\\listitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 247,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateListDto.cs",
+              "DocumentMoniker": "C:\\projects\\List_It\\List_It\\Api\\Data\\Dto\\UpdateListDto.cs",
+              "RelativeDocumentMoniker": "Api\\Data\\Dto\\UpdateListDto.cs",
+              "ToolTip": "C:\\projects\\List_It\\List_It\\Api\\Data\\Dto\\UpdateListDto.cs",
+              "RelativeToolTip": "Api\\Data\\Dto\\UpdateListDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:47:01.618Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListItem.cs",
+              "DocumentMoniker": "C:\\projects\\List_It\\List_It\\Api\\Models\\ListItem.cs",
+              "RelativeDocumentMoniker": "Api\\Models\\ListItem.cs",
+              "ToolTip": "C:\\projects\\List_It\\List_It\\Api\\Models\\ListItem.cs",
+              "RelativeToolTip": "Api\\Models\\ListItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:57:50.356Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250506190037_ConfigureCascadeAndRestrictDeletes.cs",
+              "DocumentMoniker": "C:\\projects\\List_It\\List_It\\Api\\Migrations\\20250506190037_ConfigureCascadeAndRestrictDeletes.cs",
+              "RelativeDocumentMoniker": "Api\\Migrations\\20250506190037_ConfigureCascadeAndRestrictDeletes.cs",
+              "ToolTip": "C:\\projects\\List_It\\List_It\\Api\\Migrations\\20250506190037_ConfigureCascadeAndRestrictDeletes.cs",
+              "RelativeToolTip": "Api\\Migrations\\20250506190037_ConfigureCascadeAndRestrictDeletes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:00:37.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\projects\\List_It\\List_It\\Api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Api\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\projects\\List_It\\List_It\\Api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Api\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvzAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T18:53:23.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListDto.cs",
+              "DocumentMoniker": "C:\\projects\\List_It\\List_It\\Api\\Data\\Dto\\ListDto.cs",
+              "RelativeDocumentMoniker": "Api\\Data\\Dto\\ListDto.cs",
+              "ToolTip": "C:\\projects\\List_It\\List_It\\Api\\Data\\Dto\\ListDto.cs",
+              "RelativeToolTip": "Api\\Data\\Dto\\ListDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T18:17:51.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListController.cs",
+              "DocumentMoniker": "C:\\projects\\List_It\\List_It\\Api\\Controllers\\ListController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\ListController.cs",
+              "ToolTip": "C:\\projects\\List_It\\List_It\\Api\\Controllers\\ListController.cs",
+              "RelativeToolTip": "Api\\Controllers\\ListController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T18:04:23.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "List.cs",
+              "DocumentMoniker": "C:\\projects\\List_It\\List_It\\Api\\Models\\List.cs",
+              "RelativeDocumentMoniker": "Api\\Models\\List.cs",
+              "ToolTip": "C:\\projects\\List_It\\List_It\\Api\\Models\\List.cs",
+              "RelativeToolTip": "Api\\Models\\List.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:51:41.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
